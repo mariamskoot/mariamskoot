@@ -223,51 +223,13 @@ Exploratory Data Analysis projects using Python to uncover trends and insights.
 </tr>
 </table>
 
----
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mariamskoot&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamskoot&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mariamskoot&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mariamskoot&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariamskoot&theme=tokyo-night&hide_border=true"/>
-
-</div>
 
 ---
 
 # 💼 Experience
 
-### 👩‍💻 Data Analyst
+### 👩‍💻 Data Analysis
 
 - Data Cleaning
 - Dashboard Development
@@ -327,15 +289,6 @@ Exploratory Data Analysis projects using Python to uncover trends and insights.
 - 🌍 Contribute to Open Source
 - ⭐ Continuously improve my GitHub portfolio
 
----
-
-# 📈 GitHub Contribution
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mariamskoot&show_icons=true&theme=transparent&hide_border=true"/>
-
-</p>
 
 ---
 
