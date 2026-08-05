@@ -308,7 +308,7 @@ Exploratory Data Analysis projects using Python to uncover trends and insights.
 > *This section will continue to grow as I complete more professional certifications.*
 
 ---
-
+---
 # 🌱 Currently Learning
 
 - Advanced Power BI
