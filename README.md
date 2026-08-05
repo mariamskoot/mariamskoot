@@ -122,7 +122,6 @@ Egypt 🇪🇬
 - AI Applications
 - Business Intelligence
 
-```markdown
 # 🚀 Featured Projects
 
 <table>
@@ -294,9 +293,7 @@ Exploratory Data Analysis projects using Python to uncover trends and insights.
 - Business Reports
 
 ---
-```
-```markdown
-# 📜 Certifications
+د# 📜 Certifications
 
 - 🎖️ Data Analytics
 - 🎖️ Power BI
@@ -371,4 +368,3 @@ Exploratory Data Analysis projects using Python to uncover trends and insights.
 <img src="https://komarev.com/ghpvc/?username=mariamskoot&style=for-the-badge&color=4F8EF7" />
 
 </div>
-```
