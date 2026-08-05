@@ -1,110 +1,374 @@
-<h1 align="center">Hi there, I'm Mariam Skoot 👋</h1>
+<div align="center">
 
-<h3 align="center">Aspiring Data Analyst & Artificial Intelligence Student 📊🤖</h3>
+# 👋 Hi, I'm Mariam Skoot
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Turning+Data+into+Insights;Data+Analyst+%7C+AI+Enthusiast;Machine+Learning+%7C+Deep+Learning;Data+Visualization+%7C+Business+Intelligence" alt="Typing SVG" />
-</p>
+### Data Analyst • Artificial Intelligence Student • Machine Learning Enthusiast
 
-<p align="center">
-  <a href="mailto:mariamskoot25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mariam-skoot-537a22291">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Data+Analyst;Power+BI+Developer;Machine+Learning+Enthusiast;Turning+Data+Into+Insights;Building+AI-Powered+Solutions" />
+
+<br>
+
+<a href="mailto:mariamskoot25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/mariam-skoot-537a22291">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mariamskoot">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+# 💫 About Me
+
+Hi! I'm **Mariam Skoot**, an Artificial Intelligence student passionate about **Data Analytics, Business Intelligence, Machine Learning, and AI Applications**.
+
+I enjoy turning raw data into valuable insights by building dashboards, analyzing datasets, and developing intelligent solutions powered by AI.
+
+My goal is to create impactful data-driven applications that help businesses make smarter decisions.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Artificial Intelligence**
+
+Faculty of Artificial Intelligence
+
+Kafr El-Sheikh University
+
+Egypt 🇪🇬
+
+---
+
+## 🚀 What I'm Doing
+
+- 📊 Building interactive Power BI dashboards
+- 🤖 Developing Machine Learning projects
+- 📈 Performing Exploratory Data Analysis (EDA)
+- 🧹 Cleaning and transforming datasets
+- 🗄️ Writing SQL queries for business insights
+- 💻 Creating AI-powered applications
+
+---
+
+# 💻 Tech Stack
+
+## Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
 </p>
 
 ---
 
-### 🎓 About Me
+## Data Analytics
 
-- 🎓 Bachelor of **Artificial Intelligence**, Kafr El-Sheikh University
-- 📊 **Data Analyst** with hands-on experience in Data Analysis, AI, Machine Learning & Data Visualization
-- 🚀 Passionate about transforming raw data into **actionable insights** and building **data-driven solutions**
-- 📍 Kafr El-Sheikh, Egypt
-- 💬 Always open to collaborate on Data Analytics, BI, and AI projects
+- Python
+- SQL
+- Microsoft Excel
+- Power BI
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
 
 ---
 
-### 🧠 Technical Skills
+## Artificial Intelligence
 
-**Data Analytics**
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing (NLP)
 
-![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-3776AB?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF6F00?style=flat-square)
-![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-00A98F?style=flat-square)
-![Reporting](https://img.shields.io/badge/-Reporting-6A5ACD?style=flat-square)
-![Business Intelligence](https://img.shields.io/badge/-Business%20Intelligence-E37400?style=flat-square)
+---
 
-**Artificial Intelligence**
+## Design Tools
 
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-F7931E?style=flat-square)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-EE4C2C?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C2D91?style=flat-square)
-![NLP](https://img.shields.io/badge/-NLP-1D9BF0?style=flat-square)
+- Canva
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe InDesign
+- Adobe Premiere Pro
 
-**Programming & Databases**
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+# 🌱 Currently Learning
+
+- Advanced SQL
+- Data Warehousing
+- Machine Learning
+- Deep Learning
+- AI Applications
+- Business Intelligence
+
+```markdown
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 📊 E-Commerce Sales Dashboard
+
+Interactive Power BI dashboard that analyzes sales performance, customer behavior, product trends, and KPIs.
+
+**Highlights**
+
+- 📈 Executive Dashboard
+- 📦 Product Analysis
+- 👥 Customer Insights
+- 💰 Revenue Analysis
+- 📉 Return Analysis
 
 **Tools**
 
-![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![InDesign](https://img.shields.io/badge/-InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+`Power BI` `DAX` `Excel`
+
+🔗 **Repository:** YOUR_REPOSITORY_LINK
+
+</td>
+
+<td width="50%">
+
+### 🏦 Banking Analytics Dashboard
+
+Business Intelligence dashboard developed for banking data visualization and reporting.
+
+**Highlights**
+
+- Customer Analytics
+- Financial KPIs
+- Branch Performance
+- Interactive Filters
+
+**Tools**
+
+`Power BI` `SQL`
+
+🔗 **Repository:** YOUR_REPOSITORY_LINK
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🤖 Machine Learning Projects
+
+Collection of Machine Learning models solving real-world prediction and classification problems.
+
+**Topics**
+
+- Classification
+- Regression
+- Model Evaluation
+- Feature Engineering
+
+**Tools**
+
+`Python`
+`Scikit-learn`
+`Pandas`
+
+🔗 **Repository:** YOUR_REPOSITORY_LINK
+
+</td>
+
+<td>
+
+### 📈 Data Analysis Projects
+
+Exploratory Data Analysis projects using Python to uncover trends and insights.
+
+**Topics**
+
+- Data Cleaning
+- Visualization
+- Statistical Analysis
+- Reporting
+
+**Tools**
+
+`Python`
+`Pandas`
+`Matplotlib`
+
+🔗 **Repository:** YOUR_REPOSITORY_LINK
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-### 🎯 Current Interests
+# 📊 GitHub Statistics
 
-`Data Analytics` `Business Intelligence` `Artificial Intelligence` `Machine Learning` `Data Visualization` `AI Applications`
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mariamskoot&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamskoot&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=mariamskoot&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 📌 Featured Projects
+# 🏆 GitHub Trophies
 
-<!--
-Add your top projects here, for example:
-- [Project Name](repo-link) — short description of what it does and tools used
--->
-> 🚧 *Add links to your best repositories here — recruiters check this section first!*
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mariamskoot&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mariamskoot&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 💼 Experience
+
+### 👩‍💻 Data Analyst
+
+- Data Cleaning
+- Dashboard Development
+- KPI Reporting
+- Business Intelligence
+
+---
+
+### 🤖 Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+
+---
+
+### 📊 Data Visualization
+
+- Power BI
+- Excel
+- Interactive Dashboards
+- Business Reports
+
+---
+```
+```markdown
+# 📜 Certifications
+
+- 🎖️ Data Analytics
+- 🎖️ Power BI
+- 🎖️ SQL
+- 🎖️ Python
+- 🎖️ Machine Learning
+- 🎖️ Artificial Intelligence
+
+> *This section will continue to grow as I complete more professional certifications.*
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Power BI
+- Data Warehousing
+- Data Engineering
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Cloud Technologies
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build impactful Data Analytics projects
+- 📊 Publish high-quality Power BI dashboards
+- 🤖 Develop AI-powered applications
+- 💼 Gain professional industry experience
+- 🌍 Contribute to Open Source
+- ⭐ Continuously improve my GitHub portfolio
+
+---
+
+# 📈 GitHub Contribution
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariam-skoot&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariam-skoot&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-skoot&layout=compact&hide_border=true" alt="Top Languages"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=mariamskoot&show_icons=true&theme=transparent&hide_border=true"/>
 
-> ⚠️ Replace `mariam-skoot` above with your exact GitHub username so the stats widgets load correctly.
+</p>
 
 ---
 
-### 📫 Let's Connect
+# 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:mariamskoot25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/mariam-skoot-537a22291">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+
+<a href="mailto:mariamskoot25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/mariam-skoot-537a22291">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mariamskoot">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </p>
 
-<p align="center"><i>Thanks for visiting my profile — feel free to explore my repositories! ⭐</i></p>
+---
+
+<div align="center">
+
+## 💙 Thanks for visiting my profile!
+
+*"Transforming data into actionable insights through analytics and Artificial Intelligence."*
+
+<img src="https://komarev.com/ghpvc/?username=mariamskoot&style=for-the-badge&color=4F8EF7" />
+
+</div>
+```
