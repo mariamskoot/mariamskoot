@@ -84,15 +84,15 @@ Add your top projects here, for example:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariam-skoot&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariam-skoot&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mariamskoot&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariamskoot&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariam-skoot&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamskoot&layout=compact&hide_border=true" alt="Top Languages"/>
 </p>
 
-> ⚠️ Replace `mariam-skoot` above with your exact GitHub username so the stats widgets load correctly.
+> ⚠️ Replace `mariamskoot` above with your exact GitHub username so the stats widgets load correctly.
 
 ---
 
