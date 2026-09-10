@@ -20,6 +20,10 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="[https://github.com/mariamskoot](https://mariam-skoot-data-wi15hpt.gamma.site/)">
+<img src=[![Portfolio](https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge&logoColor=white)](YOUR_PORTFOLIO_LINK)/>
+</a>
+
 </div>
 
 ---
