@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Mariam Skoot
 
-### Data Analyst • Artificial Intelligence Student • Machine Learning Enthusiast
+### Data Analyst • Artificial Intelligence Engineer • Machine Learning Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Student;Data+Analyst;Power+BI+Developer;Machine+Learning+Enthusiast;Turning+Data+Into+Insights;Building+AI-Powered+Solutions" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Data+Analyst;Power+BI+Developer;Machine+Learning+Enthusiast;Turning+Data+Into+Insights;Building+AI-Powered+Solutions" />
 
 <br>
 
